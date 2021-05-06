@@ -1,0 +1,10 @@
+hi
+git init - step git initialisation
+git add . - step add all file to git stages
+git commit - m first commint - commit to stateg with msg
+git init
+git add .
+git commit -m first mesg
+git remote add origin https://github.com/isteyak/placementQuestion.git make placementQueastio repository at github
+git branch -M master make master branch to it 
+git push -u origin master Push master branch to placementQuestion repo

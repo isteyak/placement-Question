@@ -1,0 +1,6 @@
+C:\Users\isteyak.a\Desktop\placement_drive\placement_question\PlacementQuestion\PlacementQuestion\bin\Debug\PlacementQuestion.exe.config
+C:\Users\isteyak.a\Desktop\placement_drive\placement_question\PlacementQuestion\PlacementQuestion\bin\Debug\PlacementQuestion.exe
+C:\Users\isteyak.a\Desktop\placement_drive\placement_question\PlacementQuestion\PlacementQuestion\bin\Debug\PlacementQuestion.pdb
+C:\Users\isteyak.a\Desktop\placement_drive\placement_question\PlacementQuestion\PlacementQuestion\obj\Debug\PlacementQuestion.csprojResolveAssemblyReference.cache
+C:\Users\isteyak.a\Desktop\placement_drive\placement_question\PlacementQuestion\PlacementQuestion\obj\Debug\PlacementQuestion.exe
+C:\Users\isteyak.a\Desktop\placement_drive\placement_question\PlacementQuestion\PlacementQuestion\obj\Debug\PlacementQuestion.pdb
